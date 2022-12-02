@@ -60,7 +60,7 @@ https://core.telegram.org/bots/api
 
 ### Diagrama de sequência
 
-![diagrama-sequencia](https://user-images.githubusercontent.com/77218064/205177317-0ab08984-74c5-45d7-a140-8cbe468c2bc3.png)
+![diagrama-sequencia](https://user-images.githubusercontent.com/103379267/205192960-009ecc12-6a6e-473a-91de-79f89f4360c9.png)
 
 ### Dúvidas?! 🚩
 Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente bastam criar uma Issue aqui no GitHub que estarei respondendo a vocês!! ❤️ ❤️ ❤️ 😊
